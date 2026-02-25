@@ -1,5 +1,5 @@
-🦠 Malaria Detection using Deep Learning
-📌 Project Overview
+# 🦠 Malaria Detection using Deep Learning
+## 📌 Project Overview
 
 This project aims to develop a deep learning system to classify microscopic blood smear images into:
 
@@ -9,7 +9,7 @@ Uninfected (Healthy)
 
 The system uses both a custom Convolutional Neural Network (CNN) and Transfer Learning models such as MobileNetV2 or EfficientNetB0.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Build a custom CNN model for binary classification.
 
@@ -23,7 +23,7 @@ Develop a prediction module for new images.
 
 Create a simple user interface to upload images and display confidence scores.
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Python
 
@@ -41,7 +41,7 @@ Flask (for deployment - optional)
 
 Git & GitHub
 
-📂 Project Workflow
+## 📂 Project Workflow
 
 Dataset Collection (Parasitized & Uninfected cells)
 
@@ -59,7 +59,7 @@ Prediction Module Development
 
 Deployment
 
-👥 Team Members
+## 👥 Team Members
 
 Gaurav Kumar 
 
@@ -69,6 +69,6 @@ Nishant Gupta
 
 Satyam Raghuvanshi 
 
-🚀 Expected Outcome
+## 🚀 Expected Outcome
 
 A working AI-powered malaria detection system capable of classifying blood smear images with high accuracy and providing confidence scores for predictions.
