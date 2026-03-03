@@ -1,4 +1,4 @@
-venv/ 
-dataset/ 
-__pycache__/ 
-*.pyc 
+venv/
+dataset/
+__pycache__/
+*.pyc
